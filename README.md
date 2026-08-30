@@ -5,10 +5,13 @@ Same model (prism-ml/bonsai-27b). Same question: "qual è la differenza tra TCP 
 
 ❌ Without TokenThrift. The answer is so long it takes 2 screenshots:
 
-before-1before-2
+before<img width="1636" height="952" alt="Screenshot 2026-08-30 230434" src="https://github.com/user-attachments/assets/a74a1307-32a4-4e15-b14c-3d965baa3cc1" />
+<img width="1639" height="954" alt="Screenshot 2026-08-30 230428" src="https://github.com/user-attachments/assets/c03ffda5-446d-41b9-81e4-9bcb31390fec" />
+
 ✅ With TokenThrift. One line:
 
-after
+after<img width="1625" height="932" alt="Screenshot 2026-08-30 230348" src="https://github.com/user-attachments/assets/01f4c36c-c10d-4d38-a78d-c19846d0744e" />
+
 503 in / ~650 out → 503 in / 22 out. Same info, same input cost, -96% output tokens.
 
 💸 The problem: you pay for filler
