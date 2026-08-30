@@ -57,7 +57,7 @@ u multilingual-chat → consistent English out, any input
 u hate walls of text → answers respect ur time
 1 paste. 0 config. ⭐ star it, thrift it.
 
-Inspired by caveman — go star that too.
+README Inspired by caveman — go star that too (https://github.com/JuliusBrussee/caveman).
 
 License
 MIT — do whatever, don't sue.
