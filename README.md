@@ -2,7 +2,10 @@ TokenThrift 🪙
 1 prompt = up to -76% output tokens. 5x shorter replies, 4x cheaper convos. Any language in → English slang out.
 📸 Before / After
 ❌ Without TokenThrift	✅ With TokenThrift
+
+
 before<img width="1639" height="954" alt="Screenshot 2026-08-30 230428" src="https://github.com/user-attachments/assets/4fff2b07-0915-4732-9329-78ede15667df" />
+
 <img width="1636" height="952" alt="Screenshot 2026-08-30 230434" src="https://github.com/user-attachments/assets/f18a97fa-665b-44b3-85b3-00ebdaba939d" />
 
 
